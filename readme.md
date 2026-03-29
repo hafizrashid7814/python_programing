@@ -5,3 +5,7 @@ my name is Rashid Hussain
 python programming with codanics
 
 Welcome to the python programming by codanics! this repository a collection of python scripts, tutorials, and project.
+
+this is scecond changes
+
+what is python and how to use.
